@@ -11,7 +11,7 @@ Think `python -m SimpleHTTPServer` for pictures.
 To run the image server on port 8000:
 
 ```bash
-curl https://cdn.rawgit.com/unwitting/imageme/master/imageme.py | python
+curl https://raw.githubusercontent.com/RomainSabathe/imageme/master/imageme.py | python
 ```
 
 ## Manual Usage
